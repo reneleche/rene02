@@ -1,5 +1,4 @@
-# Read about fixtures 
-#at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
   title: MyString
@@ -20,4 +19,4 @@ Ruby is the fastest growing and most exciting dynamic
 language out there. If you need to get working programs
 delivered fast, you should add Ruby to your toolbox.
 price: 49.50
-image_url: ruby.png
+image_url: ruby.pn
